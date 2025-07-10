@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Carce05
-- 👀 I’m interested in CyberSecurity, Blockchai and Game Development
+- 👀 I’m interested in CyberSecurit and Blockchain
 - 🌱 I’m currently learning Solidity, Java, JS, JQuery...
 - 💞️ I’m looking to collaborate on innovative projects that would improve people's life
 - 📫 How to reach me: arcecris123@gmail.com, +50661382105. 
